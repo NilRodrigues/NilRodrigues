@@ -4,6 +4,7 @@
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=NilRodrigues&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-NilRodrigues.vercel.app/api/top-langs/?username=NilRodrigues&show_icons=true&theme=radical&layout=compact" />
  </div>
+ </div>
  
  &nbsp;
  &nbsp;
@@ -22,7 +23,7 @@
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
 
