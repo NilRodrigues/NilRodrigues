@@ -1,14 +1,15 @@
 <p align="center">I ❤️ tech! From backend development to frontend development, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack student</strong> focused on web development.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=NilRodrigues&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-NilRodrigues.vercel.app/api/top-langs/?username=NilRodrigues&show_icons=true&theme=radical&layout=compact" />
- </div>
- </div>
- 
- &nbsp;
- &nbsp;
-
+## GitHub Stats ⚡
+<div>
+  <a href="https://github.com/NilRodrigues">
+  <center>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NilRodrigues&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="centered image">
+  </center>
+  <center>  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilRodrigues&layout=compact&langs_count=7&theme=radical"/> 
+  </center>
+</div>
 
 
 ## My Skills
