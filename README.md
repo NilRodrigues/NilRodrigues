@@ -1,4 +1,4 @@
-<p align="center">I ❤️ tech! From backend development to frontend development, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack student</strong> focused on web development.</p>&nbsp;
+<p align="center">I ❤️ tech! From backend development to frontend development,  <br>I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions.  <br>Today, I'm a <strong>full stack student</strong> focused on web development.</p>&nbsp;
 
 ## GitHub Stats ⚡
 <div>
