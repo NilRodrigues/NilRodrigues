@@ -1,16 +1,14 @@
 <p align="center">I ❤️ tech! From backend development to frontend development,  <br>I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions.  <br>Today, I'm a <strong>full stack student</strong> focused on web development.</p>&nbsp;
 
-## GitHub Stats ⚡
-<div>
-  <a href="https://github.com/NilRodrigues">
-  <center>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NilRodrigues&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="centered image">
-  </center>
-  <center>  
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilRodrigues&layout=compact&langs_count=7&theme=radical"/> 
-  </center>
-</div>
+## GitHub Overview ⚡
 
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=NilRodrigues&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=NilRodrigues&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
 
 ## My Skills
 
